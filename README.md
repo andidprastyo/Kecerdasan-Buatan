@@ -10,4 +10,3 @@ kondisi diluar dari yang disediakan oleh definisi masalah. Yang dilakukan oleh a
 adalah melakukan generate dari successor dan membedakan goal state dari non-goal state.
 Pencarian dilakukan berdasarkan pada urutan mana saja node yang hendak di-expand.
 
-
