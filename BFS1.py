@@ -10,7 +10,7 @@ graph = {
 }
 
 visited = [] # List to keep track of visited nodes.
-queue = []   # Initialize a queue
+queue = []   # Initialize a queue.
 
 def bfs(visited, graph, node):
     visited.append(node)
