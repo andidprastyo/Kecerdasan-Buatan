@@ -20,3 +20,4 @@ def dfs(visited, graph, node):
             
 print("Hasil penulusuran graf menggunakan DFS: ")
 dfs(visited, graph, 'A')
+
